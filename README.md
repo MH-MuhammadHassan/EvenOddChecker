@@ -38,3 +38,7 @@ This Dart program determines whether a given number is **even** or **odd**. It v
 4. Run the program using the following command:
    ```bash
    dart even_odd_checker.dart
+
+## Contributions
+
+Contributions are welcome! If you have additional examples or improvements, feel free to fork this repository and create a pull request.
